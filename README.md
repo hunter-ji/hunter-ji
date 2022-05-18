@@ -6,4 +6,4 @@
 ✨  I am studying hard, living hard and trying to find the fun of life.
 
 
-![](https://github-readme-stats.vercel.app/api?username=kuari)
+![](https://github-readme-stats.vercel.app/api?username=kuari&theme=dark&show_icons=true)
